@@ -1,2 +1,8 @@
-# hugo-skedans-theme
-a Hugo site theme for the skedans.com blog
+# Skedans Blog
+
+**Skedans Blog** is a [hugo](http://gohugo.io/) theme for blog.skedans.com.  
+
+## LICENSE
+
+Copyright (C) 2015 YASUTAKE Kiyoshi.  
+Released under the MIT License.
